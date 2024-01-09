@@ -5,7 +5,6 @@ let btn = document.querySelector('.burger');
 // la variable nav definit la div nav qui contient les li
 let nav = document.querySelector('.d-none');
 
-
 // pour la variable btn ajoute une action le clique, ()=> = quand je clique 
 btn.addEventListener('click', ()=>{
 // va sur le css et recupere la classe active et fait la  basculer
